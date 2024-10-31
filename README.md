@@ -1,2 +1,2 @@
 # trabajos_programacion
-trabajos de progam,
+trabajos de progamación con HTML, CSS y Javascript
